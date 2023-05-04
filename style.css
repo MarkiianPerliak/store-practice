@@ -3,8 +3,11 @@
     padding: 45px;
 }
 .update-text {
-    
+    font-size: 20px;
 }
 .demo {
-    
+    font-size: 20px;
+}
+.update-section {
+    background-color: #E5D8D8;
 }
