@@ -1,6 +1,6 @@
 .search-section {
     background-color: #E5D8D8;
-    padding: 45px;
+    padding: 30px;
 }
 .update-text {
     font-size: 20px;
@@ -8,9 +8,13 @@
 .demo {
     font-size: 20px;
 }
-.update-section {
-    background-color: #E5D8D8;
-}
 .main-list {
     list-style: none;
+}
+.section-name {
+    text-align: center;
+    font-size: 52.3px;
+    letter-spacing: 14px;
+    background-image: url(/images/forest.avif);
+    font-family: 'Darumadrop One', cursive;
 }
