@@ -1,23 +1,28 @@
 body {
-    background-color: #E5D8D8;
+    background-color: #282323;
 }
 
-.search-section {
-    background-color: #E5D8D8;
-    padding: 30px;
+.header {
+
 }
+
+
 .update-text {
     font-size: 20px;
 }
 .demo {
     font-size: 20px;
 }
+
+.main {
+    background-color: #282323;
+}
 .main-list {
     list-style: none;
 }
 
 .name-section {
-
+color: white;
 }
 
 .section-name {
@@ -25,4 +30,10 @@ body {
     font-size: 52.3px;
     letter-spacing: 14px;
     font-family: 'Darumadrop One', cursive;
+}
+
+.main-box {
+    width: 300px;
+    border: 1px solid #EEE;
+    background: #FFF;
 }
